@@ -1,0 +1,21 @@
+*.py[cod]
+.idea
+*.log
+deploy_server/logs/
+deploy_server/settings/prod.py
+
+deploy_server/frontend/.DS_Store
+deploy_server/frontend/node_modules/
+deploy_server/frontend/dist/
+deploy_server/frontend/npm-debug.log*
+deploy_server/frontend/yarn-debug.log*
+deploy_server/frontend/yarn-error.log*
+
+# Editor directories and files
+deploy_server/frontend/.idea
+deploy_server/frontend/.vscode
+deploy_server/frontend/*.suo
+deploy_server/frontend/*.ntvs*
+deploy_server/frontend/*.njsproj
+deploy_server/frontend/*.sln
+
